@@ -1,0 +1,27 @@
+{
+  "name": "concepts",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThayalanGR/node-concepts.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "ThayalanGR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThayalanGR/node-concepts/issues"
+  },
+  "homepage": "https://github.com/ThayalanGR/node-concepts#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
